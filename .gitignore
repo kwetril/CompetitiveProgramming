@@ -1,0 +1,22 @@
+#Ignore everything
+*
+!*/
+
+#Do not ignore .gitignore
+!.gitignore
+
+#Do not ignore wiki-files
+!*.md
+
+#Do not ignore source files
+!*.c
+!*.cpp
+!*.java
+!*.cs
+!*.py
+!*.rb
+!*.hs
+!*.pas
+
+
+
